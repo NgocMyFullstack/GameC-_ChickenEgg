@@ -1,0 +1,9 @@
+D:\C#\Game\ManHinh\ManHinh\bin\Debug\ManHinh.exe.config
+D:\C#\Game\ManHinh\ManHinh\obj\Debug\ManHinh.csprojResolveAssemblyReference.cache
+D:\C#\Game\ManHinh\ManHinh\obj\Debug\ManHinh.Form1.resources
+D:\C#\Game\ManHinh\ManHinh\obj\Debug\ManHinh.Properties.Resources.resources
+D:\C#\Game\ManHinh\ManHinh\obj\Debug\ManHinh.csproj.GenerateResource.Cache
+D:\C#\Game\ManHinh\ManHinh\bin\Debug\ManHinh.exe
+D:\C#\Game\ManHinh\ManHinh\bin\Debug\ManHinh.pdb
+D:\C#\Game\ManHinh\ManHinh\obj\Debug\ManHinh.exe
+D:\C#\Game\ManHinh\ManHinh\obj\Debug\ManHinh.pdb

@@ -1,0 +1,9 @@
+D:\C#\Game\TrungGa\TrungGa\bin\Debug\TrungGa.exe.config
+D:\C#\Game\TrungGa\TrungGa\obj\Debug\TrungGa.csprojResolveAssemblyReference.cache
+D:\C#\Game\TrungGa\TrungGa\obj\Debug\TrungGa.Form1.resources
+D:\C#\Game\TrungGa\TrungGa\obj\Debug\TrungGa.Properties.Resources.resources
+D:\C#\Game\TrungGa\TrungGa\obj\Debug\TrungGa.csproj.GenerateResource.Cache
+D:\C#\Game\TrungGa\TrungGa\bin\Debug\TrungGa.exe
+D:\C#\Game\TrungGa\TrungGa\bin\Debug\TrungGa.pdb
+D:\C#\Game\TrungGa\TrungGa\obj\Debug\TrungGa.exe
+D:\C#\Game\TrungGa\TrungGa\obj\Debug\TrungGa.pdb

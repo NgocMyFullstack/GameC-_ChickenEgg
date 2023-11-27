@@ -1,0 +1,28 @@
+D:\c#\ega\bin\Debug\ega.exe.config
+D:\c#\ega\bin\Debug\ega.exe
+D:\c#\ega\bin\Debug\ega.pdb
+D:\c#\ega\obj\Debug\ega.Form1.resources
+D:\c#\ega\obj\Debug\ega.Properties.Resources.resources
+D:\c#\ega\obj\Debug\ega.csproj.GenerateResource.cache
+D:\c#\ega\obj\Debug\ega.exe
+D:\c#\ega\obj\Debug\ega.pdb
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\bin\Debug\ega.exe.config
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\obj\Debug\ega.exe
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\obj\Debug\ega.pdb
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\bin\Debug\ega.exe
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\bin\Debug\ega.pdb
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\obj\Debug\ega.csprojResolveAssemblyReference.cache
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\obj\Debug\ega.Form1.resources
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\obj\Debug\ega.Properties.Resources.resources
+C:\Users\Ngoc My\Documents\Zalo Received Files\ega\obj\Debug\ega.csproj.GenerateResource.Cache
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\bin\Debug\ega.exe.config
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\obj\Debug\ega.exe
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\obj\Debug\ega.pdb
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\obj\Debug\ega.csprojResolveAssemblyReference.cache
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\obj\Debug\ega.Form1.resources
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\obj\Debug\ega.Properties.Resources.resources
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\obj\Debug\ega.csproj.GenerateResource.Cache
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\bin\Debug\ega.exe
+C:\Users\Ngoc My\OneDrive\Máy tính\ega\bin\Debug\ega.pdb
+D:\C#\ega\obj\Debug\ega.csproj.AssemblyReference.cache
+D:\C#\ega\obj\Debug\ega.csproj.CoreCompileInputs.cache

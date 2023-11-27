@@ -1,0 +1,8 @@
+D:\C#\Game\Tui\Tui\bin\Debug\Tui.exe.config
+D:\C#\Game\Tui\Tui\bin\Debug\Tui.exe
+D:\C#\Game\Tui\Tui\bin\Debug\Tui.pdb
+D:\C#\Game\Tui\Tui\obj\Debug\Tui.Form1.resources
+D:\C#\Game\Tui\Tui\obj\Debug\Tui.Properties.Resources.resources
+D:\C#\Game\Tui\Tui\obj\Debug\Tui.csproj.GenerateResource.Cache
+D:\C#\Game\Tui\Tui\obj\Debug\Tui.exe
+D:\C#\Game\Tui\Tui\obj\Debug\Tui.pdb
